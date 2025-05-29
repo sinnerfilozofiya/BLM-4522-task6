@@ -4,6 +4,13 @@ Bu proje, Microsoft SQL Server Management Studio (SSMS) üzerinde AdventureWorks
 
 ---
 
+## 📦 Kullanılan Veritabanı
+
+Bu projede Microsoft tarafından sağlanan örnek veritabanı kullanılmıştır:
+
+🔗 [AdventureWorks2022.bak – GitHub SQL Server Samples](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak)
+
+
 ## 📌 Kullanılan Sorgular
 
 ### 1. SQL Server Sürümünü Öğrenme
